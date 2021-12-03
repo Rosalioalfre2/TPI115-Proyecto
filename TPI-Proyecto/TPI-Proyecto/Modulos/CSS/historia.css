@@ -98,3 +98,12 @@ main{
 footer{
     background-color: rgb(95, 95, 95);
 }
+
+.nota {
+    margin: 0 5em 2em;
+    background-color: #84b6f4;
+    padding: 1.5em;
+    font-size: .9em;
+    border-radius: 2em;
+    border-color: black;
+}
