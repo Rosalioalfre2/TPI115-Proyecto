@@ -98,3 +98,8 @@ main{
 footer{
     background-color: rgb(95, 95, 95);
 }
+
+#ejer1 {
+    margin: auto;
+    display: block;
+}
