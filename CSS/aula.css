@@ -72,8 +72,13 @@ main h1{
 main{
     margin-top: 1%;
     background-color: whitesmoke;
+	min-height: 85vh;
 }
 
 footer{
+	margin-top: 1%;
     background-color: rgb(95, 95, 95);
+    position: absolute;
+	width: 100%;
+    bottom: 0;
 }

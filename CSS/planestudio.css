@@ -71,11 +71,14 @@ main h1{
 
 main{
     margin-top: 1%;
-	height: 85vh;
+	min-height: 85vh;
     background-color: whitesmoke;
 }
 
 footer{
 	margin-top: 1%;
     background-color: rgb(95, 95, 95);
+	position: absolute;
+	bottom: 0;
+	width: 100%;
 }
