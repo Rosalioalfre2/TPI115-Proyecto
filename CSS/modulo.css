@@ -81,3 +81,9 @@ footer{
 	width: 100%;
     bottom: 0;
 }
+
+.articulo{
+	color:	black; 
+	background-color: #84b6f4;
+	text-align: center;
+}

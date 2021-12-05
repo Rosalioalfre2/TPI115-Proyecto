@@ -82,3 +82,21 @@ footer{
 	bottom: 0;
 	width: 100%;
 }
+
+main h3{
+	font-size: 2.5em;
+}
+
+main p{
+	font-size: 1.5em;
+}
+
+main h5{
+	font-size: 2em;
+}
+
+#boton{
+	width: 175px;
+	height: 50px;
+	font-size: 1.2em;
+}
