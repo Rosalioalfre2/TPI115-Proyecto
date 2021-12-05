@@ -72,8 +72,16 @@ main h1{
 main{
     margin-top: 1%;
     background-color: whitesmoke;
+	padding: 2%;
 }
 
 footer{
     background-color: rgb(95, 95, 95);
+}
+
+iframe{
+	margin-left: 35%;
+	display: flex;
+	justify-content: center;
+	align-items: center;
 }
