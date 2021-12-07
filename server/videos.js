@@ -2,7 +2,7 @@ obtenerVideos();
 
 function obtenerVideos(){
     var videos
-    fetch('https://retoolapi.dev/HZUivn/videos')
+    fetch('https://retoolapi.dev/HZUivn/videos?vista=getstarted')
     .then(res => res.json())
     .then(data =>{
         videos =data;
