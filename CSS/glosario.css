@@ -76,12 +76,7 @@ main{
 
 footer{
     background-color: rgb(95, 95, 95);
-    position: absolute;
 	width: 100%;
     bottom: 0;
 }
-
-/* main table {
-	margin: 0 auto;
-} */
 
